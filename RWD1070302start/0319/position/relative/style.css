@@ -1,0 +1,15 @@
+
+.position{
+    width:600px;
+    height:600px;
+    background-color: cadetblue;
+    position: relative;
+}
+.box3{
+    width:300px;
+    height:200px;
+    background-color: blueviolet;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}

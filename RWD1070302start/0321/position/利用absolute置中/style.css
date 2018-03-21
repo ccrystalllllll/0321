@@ -1,0 +1,18 @@
+
+.absolute{
+    width:800px;
+    height: 800px;
+    background-color: darkorange;
+    position: relative;
+}
+.box1{
+    width:200px;
+    height:200px;
+    background-color: blueviolet;
+    position: absolute;
+    left:0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+}
